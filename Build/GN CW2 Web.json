@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Games Narrative Visual Novel",
+"productVersion": "0.1",
+"dataUrl": "GN CW2 Web.data.unityweb",
+"wasmCodeUrl": "GN CW2 Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "GN CW2 Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
